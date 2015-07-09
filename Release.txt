@@ -1,0 +1,9 @@
+Origin: DrewsephA's Repo
+Label: DrewsephA's Repo
+Suite: stable
+Version: 1.0
+Codename: DrewsephA
+Architectures: iphoneos-arm
+Components: main
+Description: DrewsephA's Repo
+MD5Sum:
