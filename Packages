@@ -1,0 +1,15 @@
+Package: <package>
+Version: <version>
+Architecture: iphoneos-arm
+Maintainer: <Drewseph>
+Depends: <bundleids>
+Filename: debs//<deb>
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: <section of your repo>
+Description: <description>
+Author: <Drewseph>
+Depiction: 
+Name: 
